@@ -29,7 +29,7 @@ This is a simple, beginner-friendly Go backend project that connects to a Postgr
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ssdtoshkentov/DynamicGet
 cd DynamicGet
 ```
 
